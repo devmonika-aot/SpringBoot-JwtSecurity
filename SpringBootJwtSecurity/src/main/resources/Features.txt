@@ -1,0 +1,14 @@
+1) Why we use spring.jpa.generate-ddl=true
+2) search For NOTES
+3) Why we use @Enumerated(EnumType.STRING) while using Enum in Entity class?
+
+JWT: Json Web Token
+    Header : contain information like algo used and token type
+    Body: contain body part like subject , name, authorities etc
+    Verify Signature: It is basically used to sender and to confirm message didn't change in path.
+
+4) @RequiredArgsConstructor meaning
+
+// Remaining feature
+Add logout features next time
+https://www.youtube.com/watch?v=0GGFZdYe-FY&t=293s
